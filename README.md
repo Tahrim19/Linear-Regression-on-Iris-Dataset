@@ -7,9 +7,9 @@ This project showcases a linear regression model applied to the famous Iris data
 
 ### Dependencies:
 Make sure you have following dependencies installed:<br>
-1- pandas<br>
-2- scikit learn<br>
-3- numpy<br>
+- pandas<br>
+- scikit learn<br>
+- numpy<br>
 
 If not installed, run the following commands in the terminal:<br>
 pip install pandas scikit-learn numpy
