@@ -11,10 +11,22 @@ Make sure you have following dependencies installed:<br>
 2- scikit learn<br>
 3- numpy<br>
 
-If not installed, write this in terminal: <br>pip install lib_name<br>
-Replace the lib_name with the name of library you want to install, i-e matplotlib
+If not installed, write this in terminal: <br>pip install name<br>
+Replace the name with the name of library you want to install, i-e matplotlib
 
 ### Features:
+- **Dataset Conversion:** Utilize pandas to convert the Iris dataset into pandas DataFrames for efficient data manipulation.
 
+- **Data Splitting:** Employ scikit-learn to split the dataset into training and testing sets, ensuring a robust evaluation of the model.
 
-## HAPPY FLOWERING!
+- **Model Creation:** Develop a linear regression model using scikit-learn, tapping into its powerful machine learning capabilities.
+
+- **Model Fitting:** Train the linear regression model by fitting it to the training data, allowing it to capture patterns and relationships.
+
+- **Model Training:** Leverage scikit-learn's linear regression module to train the model, guiding it through the intricacies of the Iris dataset.
+
+- **Model Prediction:** Unleash the trained model on the test data, predicting iris species with a touch of machine learning magic.
+
+- **Mean Squared Error Calculation:** Gauge the model's performance by calculating the Mean Squared Error, a metric providing insights into prediction accuracy.
+
+- **DataFrame Creation:** Construct a pandas DataFrame to elegantly display actual and predicted values alongside corresponding flower types, enhancing result visualization.
