@@ -11,6 +11,9 @@ Make sure you have following dependencies installed:<br>
 - scikit learn<br>
 - numpy<br>
 
+Check if they are installed:<br>
+pip show pandas scikit-learn numpy
+
 If not installed, run the following commands in the terminal:<br>
 pip install pandas scikit-learn numpy
 
