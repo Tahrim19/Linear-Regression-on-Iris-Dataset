@@ -5,14 +5,14 @@ Welcome to the Iris Linear Regression Model repository! 🚀
 ### Overview:
 This project showcases a linear regression model applied to the famous Iris dataset. The Iris dataset, containing features of iris flowers, becomes the canvas for predicting one of three flower species based on its characteristics.
 
-### Dependicies:
+### Dependencies:
 Make sure you have following dependencies installed:<br>
 1- pandas<br>
 2- scikit learn<br>
 3- numpy<br>
 
-If not installed, write this in terminal: <br>pip install name<br>
-Replace the name with the name of library you want to install, i-e matplotlib
+If not installed, run the following commands in the terminal:<br>
+pip install pandas scikit-learn numpy
 
 ### Features:
 - **Dataset Conversion:** Utilize pandas to convert the Iris dataset into pandas DataFrames for efficient data manipulation.
